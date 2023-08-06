@@ -2,7 +2,7 @@
 
 Connect, chat, and make friends effortlessly worldwide.
 
-### Check out this app on Google Play Store
+## Check out this app on Google Play Store
 
 [<img alt = "Google Play Store Link" src="google-play-badge.png"  width="350" >](https://play.google.com/store/apps/details?id=com.inventia.mobi_chat)
 
@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 
 - Flutter
 - Firebase authentication and cloud storage
-- provider state management
+- Provider state management
 
 <img src = "https://github.com/Dev-Bhandari/Mobi-Chat/assets/52774043/4861f52b-4c0e-42a8-bb89-34bc079248b7" height = "600">      <img src = "https://github.com/Dev-Bhandari/Mobi-Chat/assets/52774043/2671aaa9-5a5d-4af0-b064-75ae465fe547" height = "600">
 
