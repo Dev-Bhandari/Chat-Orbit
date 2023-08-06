@@ -1,6 +1,6 @@
 # Mobi Chat
 
-A new Flutter project.
+Connect, chat, and make friends effortlessly worldwide.
 
 ### Check out this app on Google Play Store
 
