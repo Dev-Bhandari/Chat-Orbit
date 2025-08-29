@@ -1,0 +1,22 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "free-chat-3694e",
+                    "appId": "1:741528118498:android:31080dc47461c44b75aabb",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "free-chat-3694e",
+                    "configurations": {
+                        "android": "1:741528118498:android:31080dc47461c44b75aabb",
+                        "ios": "1:741528118498:ios:d6a32869fda7532175aabb"
+                    }
+                }
+            }
+        }
+    }
+}

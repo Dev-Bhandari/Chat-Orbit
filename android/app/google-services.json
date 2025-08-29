@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "741528118498",
+    "project_id": "free-chat-3694e",
+    "storage_bucket": "free-chat-3694e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741528118498:android:5500ffe641f8b42375aabb",
+        "android_client_info": {
+          "package_name": "com.inventia.free_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741528118498-d2ajgs6ue5sqa0cv520a2njghaj69q4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUXkXvU_Ry1MHqhrLGHFINyL73Vx48yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741528118498-d2ajgs6ue5sqa0cv520a2njghaj69q4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741528118498-5k3r1907a0slugril792u88gi1idcmm4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inventia.freeChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741528118498:android:31080dc47461c44b75aabb",
+        "android_client_info": {
+          "package_name": "com.inventia.mobi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741528118498-d2ajgs6ue5sqa0cv520a2njghaj69q4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLUXkXvU_Ry1MHqhrLGHFINyL73Vx48yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741528118498-d2ajgs6ue5sqa0cv520a2njghaj69q4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "741528118498-5k3r1907a0slugril792u88gi1idcmm4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inventia.freeChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
